@@ -8,6 +8,7 @@ I work as a DevOps engineer.
 
 ----
 Biolink account: https://djwisdom.bio.link
+
 Twitter account: https://twitter.com/djwisdom
 
 <!--
