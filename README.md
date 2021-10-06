@@ -7,7 +7,9 @@ I am a proud MCGI member.
 I work as a DevOps engineer. 
 
 ----
-Biolink account: https://djwisdom.bio.link
+Biolink account: https://bio.link/djwisdom
+
+Polywork account: https://polywork.com/djwisdom
 
 Twitter account: https://twitter.com/djwisdom
 
