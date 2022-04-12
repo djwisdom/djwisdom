@@ -2,9 +2,9 @@
 
 Hello, My name is Dennis Esternon.
 
-I am a proud MCGI member.
+I wear DevOps and SysAdmin hats. 
 
-I work as a DevOps engineer. 
+I participate and contributes to SerenityOS.
 
 ----
 Biolink account: https://bio.link/djwisdom
