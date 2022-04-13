@@ -4,7 +4,7 @@ Hello, My name is Dennis Esternon.
 
 I wear DevOps and SysAdmin hats. 
 
-I participate and contributes to SerenityOS.
+I actively participate and contribute to SerenityOS.
 
 ----
 Biolink account: https://bio.link/djwisdom
