@@ -6,6 +6,9 @@ I wear DevOps and SysAdmin hats.
 
 I actively participate and contribute to SerenityOS.
 
+
+![SerenityOS Desktop](SerenityOS_Desktop_Darrque_Theme.png)
+
 ----
 Biolink account: https://bio.link/djwisdom
 
