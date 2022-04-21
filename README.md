@@ -6,7 +6,7 @@ I wear DevOps and SysAdmin hats.
 
 I actively participate and contribute to SerenityOS.
 
-I also actively contribute to ![wiki](https://wiki.serenityos.net) and to ![fonts](https://fonts.serenityos.net)
+I also actively contribute to ![](https://wiki.serenityos.net) and to ![](https://fonts.serenityos.net)
 
 ![SerenityOS Desktop](SerenityOS_Desktop_Darrque_Theme.png)
 SerenityOS Desktop sporting Darrque Theme which I contributed to the project, the other one is named Chillychilly, along with several custom fonts.
