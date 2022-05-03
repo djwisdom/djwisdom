@@ -15,7 +15,7 @@ I also actively contribute to https://wiki.serenityos.net and to https://fonts.s
 ![Light Theme](sos-may-nondarrque-theme.png)
 
 ### Chillychilly Theme (Official)
-![Chillychilly Theme](sos-may-nondarrque-theme.png)
+![Chillychilly Theme](sos-may-chillychilly-theme.png)
 
 
 
