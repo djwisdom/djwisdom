@@ -8,13 +8,18 @@ I actively participate and contribute to SerenityOS.
 
 I also actively contribute to https://wiki.serenityos.net and to https://fonts.serenityos.net
 
-### Darrque Theme
+### Darrque Theme (Official)
 ![Dark Theme](sos-may-darrque-theme.png)
 
-### Nondarrque Theme (unofficial)
+### Nondarrque Theme (Unofficial)
 ![Light Theme](sos-may-nondarrque-theme.png)
 
-SerenityOS Desktop sporting Darrque Theme which I contributed to the project, the other one is named Chillychilly, along with several custom fonts.
+### Chillychilly Theme (Official)
+![Chillychilly Theme](sos-may-nondarrque-theme.png)
+
+
+
+SerenityOS Desktop sporting Darrque Theme, Nondarrque Theme and Chillychilly Theme. I contributed themes along with several custom fonts.
 
 ----
 Biolink account: https://bio.link/djwisdom
