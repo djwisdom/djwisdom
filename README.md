@@ -8,14 +8,14 @@ I actively participate and contribute to SerenityOS.
 
 I also actively contribute to https://wiki.serenityos.net and to https://fonts.serenityos.net
 
-### Darrque Theme (Official)
-![Dark Theme](sos-may-darrque-theme.png)
+## Darrque Theme (Official)
+![Dark Theme](Durrque.png)
 
-### Nondarrque Theme (Unofficial)
-![Light Theme](sos-may-nondarrque-theme.png)
+## Nondarrque Theme (Unofficial)
+![Light Theme](NonDurrque.png)
 
-### Chillychilly Theme (Official)
-![Chillychilly Theme](sos-may-chillychilly-theme.png)
+## Chillychilly Theme (Official)
+![Chillychilly Theme](Chillychilly.png)
 
 
 
