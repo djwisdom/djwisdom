@@ -19,8 +19,4 @@ I actively participate and contribute to:
 
 SerenityOS Desktop sporting Darrque and Chillychilly Themes. I contributed themes along with several custom fonts.
 
-Work-in-Progress: SerenityOS Icon Theme packs
-
-----
-
-Twitter account: https://twitter.com/djwisdom
+Work-in-Progress: SerenityOS Icon Theme packs (Icon Themes not yet supported on SerenityOS)
