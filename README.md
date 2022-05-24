@@ -10,7 +10,7 @@ I actively participate and contribute to:
 - [Fonts](https://fonts.serenityos.net)
 - [Ports](https://ports.serenityos.net)
 
-### Darrque Theme
+### Durrque Theme
 ![Dark Theme](Durrque.png)
 
 ### Chillychilly Theme
