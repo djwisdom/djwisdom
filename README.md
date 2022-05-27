@@ -14,7 +14,7 @@ I actively participate and contribute to:
 ![Dark Theme](Durrque.png)
 
 ### Chillychilly Theme
-![Chillychilly Theme](Chillychilly.png)
+![Chillychilly Theme](Chillychilly-AIO-Theme.png)
 
 
 SerenityOS Desktop sporting Darrque and Chillychilly Themes. I contributed themes along with several custom fonts.
