@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-Hello, My name is Dennis Esternon.
+Hello, Dennis Esternon here, using the nick djwisdom.
 
-I wear DevOps and SysAdmin hats.
+@work, I wear DevOps and SysAdmin hats.
 
-My motto "Inhale. Exhale. Repeat." is my way of saying "Choose life."
+My personal motto is "Inhale. Exhale. Repeat." which is my way of saying "Choose life."
 
-Even under extreme circumstances, while one still has choice... choose life.
+Even under extreme circumstances, while one still has a choice... choose life.
